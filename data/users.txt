@@ -1,0 +1,8 @@
+1|admin|admin123|admin|0|System Administrator
+2|jsmith|password1|student|1|John Smith
+3|agupta|qwerty|student|1|Amit Gupta
+4|kobrien|iloveunis99|student|1|Kate O'Brien
+5|lchen|letmein123|student|2|Lucy Chen
+6|rpatel|football1|student|2|Raj Patel
+7|mgreen|password1|student|2|Maya Green
+8|dwilson|Sup3rvisor!|supervisor|0|Dr. David Wilson

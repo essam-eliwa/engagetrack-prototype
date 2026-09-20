@@ -1,0 +1,16 @@
+1|1|jsmith|github|commit|Add book search endpoint (routes/search.js)|2026-09-08T09:14:00Z
+2|1|jsmith|github|commit|Fix pagination bug in catalogue view|2026-09-08T14:02:00Z
+3|1|agupta|trello|card_moved|Moved 'Design loan history schema' to In Progress|2026-09-09T10:20:00Z
+4|1|agupta|github|pull_request|Opened PR #14: loan-history-schema|2026-09-10T16:45:00Z
+5|1|kobrien|trello|card_created|Created card 'Investigate overdue-fines edge cases'|2026-09-11T11:05:00Z
+6|1|jsmith|github|commit|Refactor auth middleware|2026-09-12T09:40:00Z
+7|1|jsmith|github|commit|Add tests for auth middleware|2026-09-12T09:55:00Z
+8|1|jsmith|github|commit|Add more tests for auth middleware|2026-09-12T10:10:00Z
+9|1|agupta|github|pull_request|Merged PR #14: loan-history-schema|2026-09-13T13:00:00Z
+10|1|kobrien|trello|card_moved|Moved 'Investigate overdue-fines edge cases' to Done|2026-09-15T15:30:00Z
+11|2|lchen|github|commit|Initial project scaffold|2026-09-08T08:50:00Z
+12|2|rpatel|trello|card_created|Created card 'Listings API - CRUD endpoints'|2026-09-09T09:00:00Z
+13|2|mgreen|github|commit|Add listing image upload handler|2026-09-10T12:15:00Z
+14|2|rpatel|github|commit|Implement listings CRUD|2026-09-11T17:20:00Z
+15|2|lchen|trello|card_moved|Moved 'Set up CI pipeline' to In Progress|2026-09-12T10:00:00Z
+16|2|mgreen|github|pull_request|Opened PR #7: image-upload|2026-09-13T09:30:00Z
