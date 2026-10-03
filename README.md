@@ -9,7 +9,7 @@ investigate, not a reference solution.
 ## Running it
 
 Requires Node.js (no other dependencies — it's built entirely on Node's
-built-in `http`/`fs` modules, itself part of the problem, see below).
+built-in `http`/`fs` modules, This is part of the problem, see below).
 
 ```bash
 node server.js
