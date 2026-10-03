@@ -40,7 +40,7 @@ This list is a starting point for your own investigation, not a complete
 audit. Structure and severity are for your team to assess.
 
 **Architecture**
-- Everything — routing, HTML generation, and data access — lives in a single
+- Routing, HTML generation, and data access lives in a single
   `server.js`. There's no framework, no MVC-style separation, and
   no reusable auth/authorisation middleware.
 - Persistence is flat text files read and rewritten synchronously on every
